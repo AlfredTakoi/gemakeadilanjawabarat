@@ -1,0 +1,21 @@
+# Sensitive WordPress config
+wp-config.php
+
+# Backups and large archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Logs & temp files
+*.log
+debug_*.php
+test_*.php
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
